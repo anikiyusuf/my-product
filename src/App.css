@@ -10,8 +10,8 @@ html,body{
     height: 100%;
     width:100%;
 }
-body{
-   background:  hsl(30, 38%, 92%); 
+ body{
+   background: hsl(30, 38%, 92%) ;   
    
 }
 .App{
